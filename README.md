@@ -10,5 +10,5 @@ An app which shows list of friends i made over the years around different commun
 
 ***Try latest Friendex app apk from below 👇***
 
-[![Friendex](https://img.shields.io/badge/Wiggles-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/subhipandey/Friendex/releases/download/1.0.0/friendex.apk)
+[![Friendex](https://img.shields.io/badge/APK-Friendex-green)](https://github.com/subhipandey/Friendex/releases/download/1.0.0/friendex.apk)
 
