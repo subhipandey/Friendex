@@ -1,6 +1,14 @@
 # Friendex
 An app which shows list of friends i made over the years around different communities made using Jetpack Compose
 
+<br />
+
+## Layout
+
+Home | Details 
+--- | --- | 
+![](https://github.com/subhipandey/Friendex/blob/main/Screenshot/screenshot_1.jpg) | ![](https://github.com/subhipandey/Friendex/blob/main/Screenshot/screenshot_2.jpg) |
+
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
 - [Jetpack Compose](https://developer.android.com/jetpack/compose) - Jetpack Compose is Android’s modern toolkit for building native UI.
